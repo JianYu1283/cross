@@ -1,0 +1,10 @@
+torch>=2.0
+dgl>=2.0
+networkx
+scikit-learn
+numpy
+matplotlib
+transformers
+slither-analyzer
+solc-select
+pypandoc
